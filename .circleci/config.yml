@@ -21,7 +21,7 @@ jobs:
           command: sudo pip install awscli
       - run:
           name: Deploy to S3
-          command: aws s3 sync /home/circleci/.local/bin/aws s3://tech-commit-tutorial/ --exact-timestamps --delete
+          command: aws s3 sync ~/tech-training/tech-commit-tutorial/site s3://tech-commit-tutorial/ --exact-timestamps --delete
 
 workflows:
   version: 2
