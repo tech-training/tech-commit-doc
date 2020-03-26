@@ -1,0 +1,34 @@
+version: 2.1
+
+jobs:
+  mkdocsbuild:
+    docker:
+      - image: circleci/python:3.8
+    working_directory: ~/tech-training/tech-commit-tutorial
+    steps:
+      - checkout
+      - run:
+          name: Install mkdocs
+          command: sudo pip install mkdocs
+      - run:
+          name: Install mkdocs-material
+          command: sudo pip install mkdocs-material
+      - run:
+          name: mkdocs build
+          command: sudo mkdocs build
+      - run:
+          name: Install awscli
+          command: sudo pip install awscli
+      - run:
+          name: Deploy to S3
+          command: aws s3 sync /home/circleci/.local/bin/aws s3://tech-commit-tutorial/ --exact-timestamps --delete
+
+workflows:
+  version: 2
+  mkdocs:
+    jobs:
+      - mkdocsbuild:
+          filters:
+            branches:
+              only:
+                - master
