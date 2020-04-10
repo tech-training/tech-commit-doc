@@ -1,5 +1,5 @@
 # TechCommitチュートリアルサイト
-株式会社テクトレが運営するIT学習コミュニティ『TechCommit』のチュートリアルサイトです。
+株式会社テクトレが運営するIT学習コミュニティ『[TechCommit](https://www.tech-commit.jp/)』のチュートリアルサイトです。
 
 # 環境
 - [MkDocs](https://www.mkdocs.org/)  
