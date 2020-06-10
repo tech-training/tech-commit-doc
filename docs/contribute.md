@@ -32,7 +32,7 @@ close #△△ をつけてください。△△はIssueの番号です。
 
 ### ファイル名
 各Issueで指定されたファイル名で作成してください。  
-(例)  
+例：  
 
 - bookmark.md  
 - qa-board.md  
