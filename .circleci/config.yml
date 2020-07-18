@@ -4,7 +4,7 @@ jobs:
   mkdocsbuild:
     docker:
       - image: circleci/python:3.8
-    working_directory: ~/tech-training/tech-commit-tutorial
+    working_directory: ~/tech-training/tech-commit-doc
     steps:
       - checkout
       - run:
@@ -15,7 +15,7 @@ jobs:
           command: sudo mkdocs build
       - run:
           name: Deploy to S3
-          command: aws s3 sync ~/tech-training/tech-commit-tutorial/site s3://tech-commit-tutorial/ --exact-timestamps --delete
+          command: aws s3 sync ~/tech-training/tech-commit-doc/site s3://doc.tech-commit.jp/ --exact-timestamps --delete
 
 workflows:
   version: 2
