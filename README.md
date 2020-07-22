@@ -10,6 +10,9 @@
 ## MkDocsのインストール
 [MkDocs公式](https://www.mkdocs.org/#installation)を参考にインストールします。  
 
+## Material for MkDocsのインストール
+`pip install mkdocs-material` でテーマをインストールします。
+
 ## サーバーの起動
 `mkdocs serve` コマンドを実行することで開発用サーバーを起動します。
 
