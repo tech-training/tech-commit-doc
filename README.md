@@ -1,5 +1,5 @@
-# TechCommitチュートリアルサイト
-株式会社テクトレが運営するIT学習コミュニティ『[TechCommit](https://www.tech-commit.jp/)』のチュートリアルサイトです。
+# TechCommitドキュメントサイト
+株式会社テクトレが運営するIT学習コミュニティ『[TechCommit](https://www.tech-commit.jp/)』のドキュメントサイトです。
 
 # 環境
 - [MkDocs](https://www.mkdocs.org/)  
@@ -9,6 +9,9 @@
 # 開発方法
 ## MkDocsのインストール
 [MkDocs公式](https://www.mkdocs.org/#installation)を参考にインストールします。  
+
+## Material for MkDocsのインストール
+`pip install mkdocs-material` でテーマをインストールします。
 
 ## サーバーの起動
 `mkdocs serve` コマンドを実行することで開発用サーバーを起動します。
