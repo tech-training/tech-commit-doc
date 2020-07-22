@@ -1,4 +1,4 @@
-# TechCommitチュートリアルサイトにようこそ！
+# TechCommitドキュメントサイトにようこそ！
 ここではTechCommitの**機能概要**や具体的なプログラミングの**学習段階に応じた活用例**などをまとめています。
 
 特にプログラミング学習の初期段階においては**学習量**がとても大切になってきます。
@@ -20,7 +20,7 @@ TechCommitではWebアプリ以外にSlack（チャットツール）なども�
 ▶ [利用準備（サイト編）](preparation-site.md)  
 ▶ [利用準備（ツール編）](preparation-tool.md)  
 
-サービスの利用方法等がわからない場合は、Slack内の[#02_利用方法の相談 チャンネル](https://techcommit.slack.com/archives/CJU6KST7H)にてご質問ください。
+サービスの利用方法等がわからない場合は、Slack内の[#02_利用方法の相談](https://techcommit.slack.com/archives/CJU6KST7H)チャンネルにてご質問ください。
 
 スタッフやメンターの方で対応させていただきます。
 
@@ -52,7 +52,7 @@ TechCommitはWebアプリ上に、学習のモチベーションを維持した�
 ## 学習のステップとTechCommitの活用方法
 学習の進捗度合いに応じた利用方法や学習のコツなどを紹介していきます。
 
-利用方法が分からないサービスやツールについてはSlackの[#02_利用方法の相談 チャンネル](https://techcommit.slack.com/archives/CJU6KST7H)にて気軽にご質問下さい。
+利用方法が分からないサービスやツールについてはSlackの[#02_利用方法の相談](https://techcommit.slack.com/archives/CJU6KST7H)チャンネルにて気軽にご質問下さい。
 
 ### 【入門編】
 #### Step.1 目標を設定しよう
@@ -77,7 +77,7 @@ TechTrainingではIT技術の学習難易度は「英語」とさほど変わら
 
 目標が設定できるだけの知識や観点がない場合は、まず[QA広場](https://www.tech-commit.jp/main/questions)やSlackの [#goal_career_change （転職情報共有・相談）](https://techcommit.slack.com/app_redirect?channel=CJCS3QXKN)チャンネルなどで相談してみましょう。
 
-Slackの #01_自己紹介 チャンネルで挨拶すると共に、他の方のやりたいことを見て参考にしてみるのも良いでしょう。
+Slackの [#01_自己紹介](https://techcommit.slack.com/archives/CCEE2DZ7U) チャンネルで挨拶すると共に、他の方のやりたいことを見て参考にしてみるのも良いでしょう。
 
 #### Step.2 学習内容を選定しよう
 自分のやりたいことに対する技術選定などがひとりでは難しい場合には、まず QA広場 で「学習の仕方」について聞いてみましょう。
@@ -88,7 +88,7 @@ Slackの #01_自己紹介 チャンネルで挨拶すると共に、他の方の
 とりあえず触ってみたい方は、技術にもよりますが[ドットインストール](https://dotinstall.com)や[Progate](https://prog-8.com)から始めても良いでしょう。
 
 #### Step.3 開発環境の構築をしよう
-開発環境構築に躓いたらSlackの[#98_開発環境構築 チャンネル](https://techcommit.slack.com/archives/CJC1AFPLM)で相談しましょう。
+開発環境構築に躓いたらSlackの[#98_開発環境構築](https://techcommit.slack.com/archives/CJC1AFPLM)チャンネルで相談しましょう。
 
 入門者にとって開発環境構築中に出るエラーをひとりで解決するのはかなり難易度が高いことが多いです。
 
@@ -141,7 +141,7 @@ Slackの #01_自己紹介 チャンネルで挨拶すると共に、他の方の
 #### Step.9 オリジナルアプリ制作をしよう
 Slackチャンネルの[アプリアイディア](https://techcommit.slack.com/archives/CJEACFC72)でアプリのアイデアを出して意見をもらいつつ、実際にアプリを作ってみましょう！
 
-その際、[アウトプット共有 チャンネル](https://techcommit.slack.com/archives/CJ6LHQH6K)で進捗報告をしつつ、要件定義や設計、実装など各段階でレビューなどを受けるのも良いでしょう。
+その際、[アウトプット共有](https://techcommit.slack.com/archives/CJ6LHQH6K)チャンネルで進捗報告をしつつ、要件定義や設計、実装など各段階でレビューなどを受けるのも良いでしょう。
 
 実際にアプリを作ってみることはアウトプット中心の勉強になるので、実力が身につきやすいです。
 
