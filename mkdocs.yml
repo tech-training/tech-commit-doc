@@ -17,3 +17,21 @@ theme:
   palette:
     primary: 'indigo'
     accent: 'amber'
+
+# ページ構成
+nav:
+- ホーム: 'index.md'
+- 利用準備:
+  - サイト編: 'preparation-site.md'
+  - ツール編: 'preparation-tool.md'
+- 使い方:
+  - Slackの導入とワークスペースの参加方法: 'join-slack.md'
+  - Slackチャンネルの参加方法: 'join-slack-channel.md'
+  - Zoomのインストール方法と基本的な使い方: 'install-zoom.md'
+  - オンラインもくもく会の活用方法: 'mokumoku.md'
+  - オンライン週末勉強会の活用方法: 'online-event.md'
+  - 学習日報の活用方法: 'learning-report.md'
+  - 学習日報ツイート機能: 'learning-report-tweet.md'
+  - QA広場の活用方法: 'qa-board.md'
+  - 挑戦状の活用方法: 'challenge.md'
+  - ブックマークの活用方法: 'bookmark.md'
