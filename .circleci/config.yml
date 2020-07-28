@@ -16,6 +16,9 @@ jobs:
       - run:
           name: Deploy to S3
           command: aws s3 sync ~/tech-training/tech-commit-doc/site s3://doc.tech-commit.jp/ --exact-timestamps --delete
+      - run:
+          name: CloudFront old cache invalidation
+          command: aws cloudfront create-invalidation --distribution-id $AWS_DISTRIBUTION_ID --paths "/*"
 
 workflows:
   version: 2
