@@ -1,37 +1,40 @@
 # サイト情報
 site_name: TechCommitドキュメント
-site_description: 'TechCommitを活用するためのドキュメントサイト'
-site_author: 'TechTraining'
+site_description: TechCommitを活用するためのドキュメントサイト
+site_author: TechTraining
 
 # リポジトリ
-repo_name: 'tech-training/tech-commit-tutorial'
+repo_name: tech-training/tech-commit-tutorial
 
 # コピーライト
 copyright: '&copy; 2020 株式会社テクトレ'
 
 # デザイン設定
 theme:
-  name: 'material'
-  language: 'ja'
-  favicon: 'images/favicon.ico'
+  name: material
+  language: ja
+  favicon: images/favicon.ico
   palette:
-    primary: 'indigo'
-    accent: 'amber'
+    primary: indigo
+    accent: amber
 
 # ページ構成
 nav:
-- ホーム: 'index.md'
+- ホーム: index.md
 - 利用準備:
-  - Slackアプリのインストールとワークスペースへの参加: 'join-slack.md'
-  - サイト編: 'preparation-site.md'
-  - ツール編: 'preparation-tool.md'
+  - Slackアプリのインストールとワークスペースへの参加: join-slack.md
+  - Zoomのインストールと基本操作: install-zoom.md
+  - TechCommit Webサイトの設定: preparation-site.md
+  - ツール編: preparation-tool.md
 - 使い方:
-  - Slackチャンネルの参加方法: 'join-slack-channel.md'
-  - Zoomのインストール方法と基本的な使い方: 'install-zoom.md'
-  - オンラインもくもく会の活用方法: 'mokumoku.md'
-  - オンライン週末勉強会の活用方法: 'online-event.md'
-  - 学習日報の活用方法: 'learning-report.md'
-  - 学習日報ツイート機能: 'learning-report-tweet.md'
-  - QA広場の活用方法: 'qa-board.md'
-  - 挑戦状の活用方法: 'challenge.md'
-  - ブックマークの活用方法: 'bookmark.md'
+  - Slack:
+    - Slackチャンネルの参加方法: join-slack-channel.md
+  - TechCommit Webサイト:
+    - 学習日報の活用方法: learning-report.md
+    - 学習日報ツイート機能: learning-report-tweet.md
+    - QA広場の活用方法: qa-board.md
+    - 挑戦状の活用方法: challenge.md
+    - ブックマークの活用方法: bookmark.md
+  - イベント:
+    - オンラインもくもく会の活用方法: mokumoku.md
+    - オンライン週末勉強会の活用方法: online-event.md
