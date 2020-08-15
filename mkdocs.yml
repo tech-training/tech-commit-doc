@@ -26,15 +26,19 @@ nav:
   - Zoomのインストールと基本操作: install-zoom.md
   - TechCommit Webサイトの設定: preparation-site.md
   - ツール編: preparation-tool.md
-- 使い方:
+- 活用ステップ:
+  - 入門: beginner.md
+  - 基礎学習: learn-base.md
+  - 実践: practice.md
+- 活用方法:
   - Slack:
     - Slackチャンネルの参加方法: join-slack-channel.md
   - TechCommit Webサイト:
-    - 学習日報の活用方法: learning-report.md
+    - 学習日報: learning-report.md
     - 学習日報ツイート機能: learning-report-tweet.md
-    - QA広場の活用方法: qa-board.md
-    - 挑戦状の活用方法: challenge.md
-    - ブックマークの活用方法: bookmark.md
+    - QA広場: qa-board.md
+    - 挑戦状: challenge.md
+    - ブックマーク: bookmark.md
   - イベント:
-    - オンラインもくもく会の活用方法: mokumoku.md
-    - オンライン週末勉強会の活用方法: online-event.md
+    - オンラインもくもく会: mokumoku.md
+    - オンライン週末勉強会: online-event.md
