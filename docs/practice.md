@@ -1,7 +1,7 @@
 ## Step.1 オリジナルアプリ制作をしよう
-Slackチャンネルの[アプリアイディア](https://techcommit.slack.com/archives/CJEACFC72)でアプリのアイデアを出して意見をもらいつつ、実際にアプリを作ってみましょう！
+Slackの[#アプリアイディア](https://techcommit.slack.com/archives/CJEACFC72)チャンネルでアプリのアイデアを出して意見をもらいつつ、実際にアプリを作ってみましょう！
 
-その際、[アウトプット共有](https://techcommit.slack.com/archives/CJ6LHQH6K)チャンネルで進捗報告をしつつ、要件定義や設計、実装など各段階でレビューなどを受けるのも良いでしょう。
+その際、[#アウトプット共有](https://techcommit.slack.com/archives/CJ6LHQH6K)チャンネルで進捗報告をしつつ、要件定義や設計、実装など各段階でレビューなどを受けるのも良いでしょう。
 
 実際にアプリを作ってみることはアウトプット中心の勉強になるので、実力が身につきやすいです。
 
