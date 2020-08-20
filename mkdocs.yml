@@ -4,7 +4,9 @@ site_description: TechCommitを活用するためのドキュメントサイト
 site_author: TechTraining
 
 # リポジトリ
+repo_url: https://github.com/tech-training/tech-commit-doc
 repo_name: tech-training/tech-commit-tutorial
+edit_uri: edit/develop/docs/
 
 # コピーライト
 copyright: '&copy; 2020 株式会社テクトレ'
