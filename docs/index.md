@@ -39,6 +39,16 @@ TechCommitで開催されるオンラインイベントは大きく以下の２�
 ▶ [オンラインもくもく会の活用方法](mokumoku.md)  
 ▶ [週末イベントの活用方法](online-event.md)
 
+## ソーシャルメディアの紹介
+![TechCommit Note](images/index/note.png)
+
+Twitter、noteでお役立ち情報を発信していますのでぜひフォローしてください。  
+▶ [Twitter](https://twitter.com/TechCommit)  
+▶ [note](https://note.com/tech_commit) 
+
+また、[Qiita Organization](https://qiita.com/organizations/tech-commit)に参加してTechCommitの所属メンバーとして記事を投稿できますので、  
+参加をご希望される場合は、Slackの@TechCommit運営までQiita IDをDMでお送りください。  
+
 ## 本サイトの改善/修正案を受付しております
 本サイトはTechCommitを最大限活用していただくために、どんどん改善していきたいと考えております。  
 些細なことでも構いませんので、
