@@ -25,18 +25,14 @@ nav:
 - ホーム: index.md
 - 利用準備:
   - Slackアプリのインストールとワークスペースへの参加: join-slack.md
+  - Slackチャンネルの参加方法: join-slack-channel.md
   - Zoomのインストールと基本操作: install-zoom.md
   - TechCommit Webサイトの設定: preparation-site.md
-- 活用ステップ:
-  - 入門: for-beginner.md
-  - 基礎学習: learn-base.md
-  - 実践: practice.md
+# - 活用ステップ:
 - 活用方法:
-  - Slack:
-    - Slackチャンネルの参加方法: join-slack-channel.md
   - TechCommit Webサイト:
     - 学習日報: learning-report.md
-    - 学習日報ツイート機能: learning-report-tweet.md
+    - 学習日報ツイート設定: learning-report-tweet.md
     - QA広場: qa-board.md
     - 挑戦状: challenge.md
     - ブックマーク: bookmark.md
