@@ -1,4 +1,6 @@
 # TechCommitドキュメントサイトにようこそ！
+![TechCommit トップ](images/index/techcommit-top.png)
+
 このサイトはコミュニティ型IT学習環境「[TechCommit](https://www.tech-commit.jp/)」を最大限活用するために、
 **機能概要**をまとめています。  
 今後は具体的なプログラミングの**学習段階に応じた活用例**などもまとめていく予定です。

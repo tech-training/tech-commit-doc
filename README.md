@@ -25,3 +25,11 @@
 
 ## デザインや設定の変更
 `mkdocs.yml` で管理します。設定項目は[こちら](https://squidfunk.github.io/mkdocs-material/getting-started/#configuration)が参考になります。
+
+## CSSの追加・変更
+`mkdocs.yml` の `extra_css` で読み込むファイルを指定します。
+ディレクトリ設計は次の通りです。
+
+css/  
+  ├ common/：ページ全体で共通のスタイル  
+  ├ original/：特定のページだけに適用するスタイル  
