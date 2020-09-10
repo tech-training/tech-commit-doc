@@ -17,8 +17,13 @@ theme:
   language: ja
   favicon: images/favicon.ico
   palette:
-    primary: indigo
+    primary: preference
     accent: amber
+  logo: images/header/techcommit_logo.png
+
+extra_css:
+  - css/common/header.css
+  - css/common/container.css
 
 # ページ構成
 nav:
