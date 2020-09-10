@@ -22,8 +22,9 @@ theme:
   logo: images/header/techcommit_logo.png
 
 extra_css:
-  - css/common/header.css
   - css/common/container.css
+  - css/common/header.css
+  - css/common/sidebar.css
 
 # ページ構成
 nav:
