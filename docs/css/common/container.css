@@ -1,3 +1,8 @@
 .md-container .md-content .md-typeset h1 {
+  padding-bottom: 6px;
+  font-weight: bold;
   color: #444444;
+  border-bottom: 2px solid;
+  border-image: linear-gradient(90deg,#595555,#dc5253 60%,#e47740 75%,#f5cd62 90%);
+  border-image-slice: 1;
 }
