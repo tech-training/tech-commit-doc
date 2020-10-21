@@ -34,6 +34,9 @@ nav:
   - Slackチャンネルの参加方法: join-slack-channel.md
   - Zoomのインストールと基本操作: install-zoom.md
   - TechCommit Webサイトの設定: preparation-site.md
+- チュートリアル:
+  - このチュートリアルの意義: tutorial/tutorial-significance.md
+  - TechCommitが大事にしていること: tutorial/techcommit-concept.md
 - 目標別活用例:
   - 個人アプリ開発: develop-app.md
 - 活用方法:
