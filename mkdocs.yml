@@ -35,16 +35,7 @@ nav:
   - Zoomのインストールと基本操作: install-zoom.md
   - TechCommit Webサイトの設定: preparation-site.md
 - チュートリアル:
-  - TechCommitが大事にしていること、思想: tutorial/important-concepts.md
-  - TechCommitの活動: tutorial/techcommit-activities.md
-  - 心理的ハードルを感じたり、不安な方へ: tutorial/feel-the-hurdle.md
-  - メンバーと仲良くなるためにまずやるべきこと: tutorial/know-each-other.md
-  - 自分が興味のある／趣味とあうチャンネルに参加しよう: tutorial/join-interest-channel.md
-  - もくもく会やイベントに参加して交流／勉強しよう: tutorial/join-event.md
-  - 機能やサービスを活用しよう: tutorial/use-features-and-services.md
-  - 習慣化する準備をしよう: tutorial/make-learning-plan.md
-  - お互いに成果や成長を共有し合おう: tutorial/share-output.md
-  - わからないことを質問してみよう: tutorial/ask-questions.md
+  - このチュートリアルの意義: tutorial/about-tutorial.md
 - 目標別活用例:
   - 個人アプリ開発: develop-app.md
 - 活用方法:
