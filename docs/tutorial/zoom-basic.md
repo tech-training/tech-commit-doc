@@ -1,26 +1,3 @@
-## Zoomとは？
-![Zoomトップ](images/install-zoom/zoom-top-page.jpg)
-
-Zoomとは、オンラインミーティングをするためのアプリです。  
-音声通話を目的とするSkypeとは違い、ミーティングを目的として開発されたものなので、ミーティングに便利な機能がたくさんあります。
-
-TechCommitでは、毎日のもくもく会や週末の勉強会などにこのZoomを使っています。  
-画面共有やホワイトボードなどの機能があり、わからないことを質問する際に非常に便利です。
-
-## Zoomのインストール方法
-まずは、[Zoomの公式ページのダウンロードリンク](https://zoom.us/download#client_4meeting)にアクセスしてください。  
-
-![ダウンロードページ](images/install-zoom/download-page.jpg)
-
-ダウンロードしたファイルを実行すると、Macの場合は下のような表示が出るかと思いますが、**続ける**を押して、そのままインストールしてください。
-
-![インストール時の警告](images/install-zoom/install-warning.jpg)
-
-インストールが終わると、下のような画面が出てきます。これで、Zoomのインストールは完了です。
-
-![インストール完了](images/install-zoom/finished-install.jpg)
-
-## Zoomの基本的な使い方
 ### ミーティングへの参加
 
 勉強会やもくもく会が開催される場合、Slackに以下のようなリンクが投稿されます。  
@@ -40,7 +17,7 @@ Zoomの基本的な機能は以下のようなものが挙げられます。
 ⑤チャット
 ---
 
-![入室後のZoom画面](images/install-zoom/room-display.jpg)
+![入室後のZoom画面](/images/install-zoom/room-display.jpg)
 
 ①**ミュート**は、自分の声の入力のオンオフを切り替えるボタンです。 
  
@@ -53,7 +30,7 @@ Zoomの基本的な機能は以下のようなものが挙げられます。
 
 ④**画面の共有**を押すと、他の参加者と画面の共有をすることができます。 
 
-![画面共有](images/install-zoom/share-display.jpg)
+![画面共有](/images/install-zoom/share-display.jpg)
 
 **画面の共有**では特定の画面の共有ができます。また、ホワイトボード機能もあり、図を描きながら説明する時などに便利です。  
 赤く丸をつけた画面を選択し、右下の**画面の共有**ボタンを押した場合、次のようにな画面になり、参加者に共有されます。
@@ -65,11 +42,11 @@ Zoomの基本的な機能は以下のようなものが挙げられます。
 
 ⑤**チャット**を押すと、チャット画面が表示されます。チャット画面では、URLを貼って共有したり、音声で話せない場合にメッセージを送る時などに使えます。
 
-![Zoomチャット](images/install-zoom/chat.jpg)
+![Zoomチャット](/images/install-zoom/chat.jpg)
 
 ミーティングを退出する際は、ウィンドウ右下の**ミーティングから退出**を選択するとミーティングから退出することができます。
 
-![Zoom退出](images/install-zoom/leave-room.jpg)
+![Zoom退出](/images/install-zoom/leave-room.jpg)
 
 これで、Zoomの基本的な使い方の説明は終わりです。  
 TechCommitで毎日のもくもく会に参加して、みんなで楽しく学習が続けられるように頑張りましょう！
