@@ -35,7 +35,7 @@ nav:
   - Zoomのインストールと基本操作: install-zoom.md
   - TechCommit Webサイトの設定: preparation-site.md
 - チュートリアル:
-  - このチュートリアルの意義: tutorial/tutorial-significance
+  - このチュートリアルの意義: tutorial/tutorial-significance.md
 - 目標別活用例:
   - 個人アプリ開発: develop-app.md
 - 活用方法:
