@@ -16,10 +16,11 @@ TechCommitはオンラインで**学びを遊ぶ、ITスキルの継続的学習
 TechCommitではWebサイト以外にもSlack（チャットツール）とZoom（ビデオ通話ツール）を使用してメンバーとコミュニケーションをとっています。  
 SlackとZoomの導入について確認しておきましょう。
 
-▶ [Slackアプリのインストールとワークスペースへの参加](join-slack.md)  
+▶ [Slackアプリのインストール方法](tutorial/install-slack.md)  
+▶ [TechCommitのワークスペースへの参加](tutorial/join-slack.md)  
 ▶ [Slackチャンネルの参加方法](join-slack-channel.md)  
-▶ [Zoomのインストールと基本操作](install-zoom.md)  
-▶ [TechCommit サイトの設定](preparation-site.md)  
+▶ [Zoomのインストール](tutorial/install-zoom.md)  
+▶ [TechCommit サイトの設定](tutorial/preparation-site.md)  
 
 ### TechCommitの各機能の概要
 TechCommitサイトにある機能についてご紹介します。各機能の詳細はリンクをご覧ください。
