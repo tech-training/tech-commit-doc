@@ -26,7 +26,7 @@
 他のメンバーがどのような順序や方法で個人アプリを開発しているのか参考にしたいのであれば、
 TechCommit Noteの**[個人アプリ開発インタビューマガジン](https://note.com/tech_commit/m/mfe8deb8dc646)**を見てみましょう。
 
-![個人アプリ開発インタビューマガジン](images/develop-app/ note-develop-app-magazine.png)
+![個人アプリ開発インタビューマガジン](images/develop-app/note-develop-app-magazine.png)
 
 ## 設計や開発で詰まって進捗が出せなくなってしまった
 やることは決まってさあ取り掛かろう！あれ？これってどうすればいいんだ？💦訳のわからないエラーが出てしまった💦  
