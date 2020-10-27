@@ -9,7 +9,8 @@ TechCommitを100%活用して、プログラミング学習を楽しく効果的
 
 ## TechCommitのコンセプト
 TechCommitはオンラインで**学びを遊ぶ、ITスキルの継続的学習環境**をコンセプトとしてサービスを開発・運用しています。  
-地方在住や学生の方でもイベントやSlackでのコミュニケーションなどを通じて、**仲間と楽しく継続的に学習して結果を出していく為**にご活用下さい。
+地方在住や学生の方でもイベントやSlackでのコミ
+ュニケーションなどを通じて、**仲間と楽しく継続的に学習して結果を出していく為**にご活用下さい。
 
 ## 本サイトの見方(メンバー向け)
 ### ツールの準備が済んでいない場合
@@ -18,7 +19,7 @@ SlackとZoomの導入について確認しておきましょう。
 
 ▶ [Slackアプリのインストール方法](tutorial/install-slack.md)  
 ▶ [TechCommitのワークスペースへの参加](tutorial/join-slack.md)  
-▶ [Slackチャンネルの参加方法](join-slack-channel.md)  
+▶ [Slackチャンネルの参加方法](tutorial/join-slack-channel.md)  
 ▶ [Zoomのインストール](tutorial/install-zoom.md)  
 ▶ [TechCommit サイトの設定](tutorial/preparation-site.md)  
 
