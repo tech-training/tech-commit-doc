@@ -18,7 +18,7 @@ SlackとZoomの導入について確認しておきましょう。
 
 ▶ [Slackアプリのインストール方法](tutorial/install-slack.md)  
 ▶ [TechCommitのワークスペースへの参加](tutorial/join-slack.md)  
-▶ [Slackチャンネルの参加方法](join-slack-channel.md)  
+▶ [Slackチャンネルの参加方法](tutorial/join-slack-channel.md)  
 ▶ [Zoomのインストール](tutorial/install-zoom.md)  
 ▶ [TechCommit サイトの設定](tutorial/preparation-site.md)  
 
