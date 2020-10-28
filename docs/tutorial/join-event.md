@@ -64,3 +64,12 @@ TechCommitでは以下の4種類のイベントを定期的に開催していま
 
 ▶ **個人アプリ開発に興味がある方**：[個人アプリ開発相談動画](https://www.tech-commit.jp/main/event_archives?watching_status=all&title=&tag_ids%5B%5D=25)  
 ▶ **メンバーと交流したい方**：[交流・相談会動画](https://www.tech-commit.jp/main/event_archives?watching_status=all&title=&tag_ids%5B%5D=22)
+
+---
+
+それでは次に、
+
+[「Step5. 学習にもっとCommitしよう！」](../include-techcommit-in-your-life)
+
+へ進みましょう！
+
