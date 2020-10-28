@@ -53,8 +53,49 @@ SlackでTechCommitのワークスペースに参加したら、まずは自己�
 今後、メンバーのプロフィールを閲覧できる機能などを追加予定です。
 それまでは、あなたの趣味や学習目的に近い人を運営がおつなぎできるように努めます。
 
+### メンバーの活動のご紹介
+
+アプリを開発された方々は、TechCommitのマガジンでインタビューさせていただいています。
+
+メンバーの方がどんなものを作られているのか、どんな経験をされているのかも是非チェックしてみてください！
+
+#### ▶ TechCommit [個人アプリ開発インタビューマガジン](https://note.com/tech_commit/m/mfe8deb8dc646)より
+
+naokiさん  
+[近所のお気に入りの場所を共有『ご近所LIKEマップ』【個人アプリ開発インタビュー】](https://note.com/tsuji_tech/n/n9f67f5205ebc?magazine_key=mfe8deb8dc646)
+
+コンチさん  
+[パートナーに助けて欲しいことを共有『パパダッシュ!!』【個人アプリ開発インタビュー】](https://note.com/odagawa_tech/n/ne84f5b75fa0a?magazine_key=mfe8deb8dc646)
+
+たっきーさん  
+[C#で作る数独解析ツール【個人アプリ開発インタビュー】](https://note.com/odagawa_tech/n/nd51fe75588a7?magazine_key=mfe8deb8dc646)
+
+Jinさん  
+[技術書検索アプリGeekle【個人アプリ開発インタビュー】](https://note.com/tech_commit/n/nad6619ab787c?magazine_key=mfe8deb8dc646)
+
+#### ▶ TechCommit [ITエンジニア転職者インタビューマガジン](https://note.com/tech_commit/m/m83ef8d20a043)より
+
+なべさん
+[未経験文系30歳からのエンジニア転職【転職インタビュー】](https://note.com/odagawa_tech/n/ncb2c0369177a?magazine_key=m83ef8d20a043)
+
+MasaHeroさん
+[機械学習エンジニアにキャリアチェンジ【エンジニア転職インタビュー】](https://note.com/odagawa_tech/n/n9b84e8334b06?magazine_key=m83ef8d20a043)
+
+かわのりさん  
+[一人社内SEからチームで働くエンジニアに！ 【エンジニア転職インタビュー】](https://note.com/odagawa_tech/n/n495e47fa5b06?magazine_key=m83ef8d20a043)
+
+### 個人開発をしている人の活動の様子
+
+TechCommitでは毎月「個人開発の進捗共有＆相談会」というイベントを実施しています。
+
+過去のイベントの様子が動画で見られるようになっていますので、どんなメンバーが最近どんなことをしているのかも興味があれば是非覗いてみてください。
+
+▶ [個人開発相談会の過去イベント一覧](https://www.tech-commit.jp/main/event_archives?title=&tag_ids%5B%5D=28)
+
 ### 運営メンバーのご紹介
+
 TechCommitを運営しているメンバーのご紹介です。  
+
 何かご不明な点やご相談などがございましたら、この3人のいずれかにSlackでメンションを付けて[#利用方法の相談](https://techcommit.slack.com/archives/CJU6KST7H)チャンネルにご連絡ください。
 
 | メンバー名（ニックネーム） | プロフィールURL | Slackアカウント |
@@ -63,13 +104,11 @@ TechCommitを運営しているメンバーのご紹介です。
 | 小田川雅俊 | [https://www.tech-commit.jp/milky_bear](https://www.tech-commit.jp/milky_bear) | @小田川雅俊 |
 | 佐野裕史（ひろポン） | [https://www.tech-commit.jp/Hiropon](https://www.tech-commit.jp/Hiropon) | @ひろポン|
 
-### メンバーの活動のご紹介
-個人開発の進捗共有イベントの動画やメディアなどをご覧いただけると、どんなメンバーがいてどのようなことをしているのか雰囲気がつかめると思います。
+---
 
-▶ [個人開発の進捗共有イベントの動画一覧](https://www.tech-commit.jp/main/event_archives?title=&tag_ids%5B%5D=1)
+それでは次に、
 
-アプリを開発された方々は、TechCommitのマガジンでインタビューさせていただいています。
+[「Step3. 興味のある話題に参加しよう！」](../join-slack-channel)
 
-▶ [個人アプリ開発インタビューマガジン](https://note.com/tech_commit/m/mfe8deb8dc646)
+へ進みましょう！
 
-![個人アプリ開発インタビューマガジン](../images/develop-app/note-develop-app-magazine.png)
