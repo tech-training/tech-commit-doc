@@ -30,8 +30,7 @@ extra_css:
 nav:
 - ホーム: index.md
 - チュートリアル:
-  - このチュートリアルの意義: tutorial/tutorial-significance.md
-  - TechCommitが大事にしていること: tutorial/techcommit-concept.md
+  - "ようこそTechCommitへ": tutorial/about.md
   - 利用準備をしよう:
     - Slackアプリのインストール方法: tutorial/install-slack.md
     - Zoomのインストール方法: tutorial/install-zoom.md
