@@ -129,7 +129,7 @@ TechCommit登録後（ログイン後）にマイページを開くとSlack連�
 
 それでは次に、
 
-[「Step2. メンバーと仲良くなろう！」](../tutorial/get-along-with-each-other)
+[「Step2. メンバーと仲良くなろう！」](../get-along-with-each-other)
 
 へ進みましょう！
 
