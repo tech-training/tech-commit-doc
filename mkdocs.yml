@@ -30,17 +30,12 @@ extra_css:
 nav:
 - ホーム: index.md
 - チュートリアル:
-  - "ようこそTechCommitへ": tutorial/about.md
-  - 利用準備をしよう:
-    - Slackアプリのインストール方法: tutorial/install-slack.md
-    - Zoomのインストール方法: tutorial/install-zoom.md
-    - Zoomの基本操作: tutorial/zoom-basic.md
-    - TechCommitのワークスペースへ参加する方法: tutorial/join-slack.md
-    - TechCommit Webサイトの設定: tutorial/preparation-site.md
-  - お互いに仲良くなるためにまずやるべきこと: tutorial/get-along-with-each-other.md
-  - 興味のあるチャンネルへ参加して仲間を作ろう: tutorial/join-slack-channel.md
-  - イベントに参加しよう: tutorial/join-event.md
-  - TechCommitをあなたの生活に組み込もう: tutorial/include-techcommit-in-your-life.md
+  - ようこそTechCommitへ: tutorial/about.md
+  - Step1. 利用環境を整えよう！: tutorial/preparation.md
+  - Step2. メンバーと仲良くなろう！: tutorial/get-along-with-each-other.md
+  - Step3. 興味のある話題に参加しよう！: tutorial/join-slack-channel.md
+  - Step4. 様々なイベントに参加しよう！: tutorial/join-event.md
+  - Step5. 学習にもっとCommitしよう！: tutorial/include-techcommit-in-your-life.md
 - 目標別活用例:
   - 個人アプリ開発: develop-app.md
 - 活用方法:
