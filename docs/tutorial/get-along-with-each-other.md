@@ -75,10 +75,10 @@ Jinさん
 
 #### ▶ TechCommit [ITエンジニア転職者インタビューマガジン](https://note.com/tech_commit/m/m83ef8d20a043)より
 
-なべさん
+なべさん  
 [未経験文系30歳からのエンジニア転職【転職インタビュー】](https://note.com/odagawa_tech/n/ncb2c0369177a?magazine_key=m83ef8d20a043)
 
-MasaHeroさん
+MasaHeroさん  
 [機械学習エンジニアにキャリアチェンジ【エンジニア転職インタビュー】](https://note.com/odagawa_tech/n/n9b84e8334b06?magazine_key=m83ef8d20a043)
 
 かわのりさん  
