@@ -8,7 +8,7 @@
 
 設定はページ上部のグローバルメニューから、右上のアイコンをクリック→[設定]を選択するか[こちらから](https://www.tech-commit.jp/inodev/profiles/edit)アクセスしてくださいしてください。
 
-![プロフィール設定ページ](/images/preparation-site/profiles-edit.png)
+![プロフィール設定ページ](/images/preparation/profiles-edit.png)
 
 ### アイコン
 アイコンはデフォルトで「Gravator」を使用しています。  
@@ -19,7 +19,7 @@
 各項目の入力が済んだら、右下の [送信] ボタンを押してください。  
 画像などを設定すると、変更されたアイコンや名前がマイページに表示されます。
 
-![マイプロフィール](/images/preparation-site/my-profile.png)
+![マイプロフィール](/images/preparation/my-profile.png)
 
 ここまで完了したら、Slackのアプリでも同じ画像と表示名でプロフィールを設定してください。
 
