@@ -16,6 +16,7 @@ Zoomの使い方については、[こちら](tutorial/preparation.md)をご覧�
 みなさんからのご意見・ご要望を参考にしながら、様々な分野の勉強会を開催していきます。
 
 ▼例えば以下のような勉強会を過去に開催しました。   
+
 - [GitHubを使った開発フロー【Rails編】](https://note.com/odagawa_tech/n/n3ffb695f914c)
 - [基本をしっかり抑えよう Webアプリ制作者の為のSQL入門](https://note.com/tsuji_tech/n/n3cb82a652e60)
 
