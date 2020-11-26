@@ -17,12 +17,11 @@ TechCommitではコントリビューションをお待ちしています。
 4. TechCommit運営メンバーがレビュー・マージします。
 
 ### ブランチ名
-ブランチ名はfeature/〇〇という名前で作成してください。  
-〇〇は追加するドキュメントに沿った命名をしてください。  
+ブランチ名は追加・修正する内容に沿った命名をしてください。    
 例：  
 
-- feature/add-description-zoom-install  
-- feature/fix-learning-report-page-typo
+- add-description-zoom-install  
+- fix-learning-report-page-typo
 
 ### Pull requestの作成
 close #△△ をつけてください。△△はIssueの番号です。  
