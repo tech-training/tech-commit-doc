@@ -8,13 +8,12 @@ TechCommitではコントリビューションをお待ちしています。
 など
 
 ## バグ・誤字などの報告、提案・要望等
-Issueにてご報告頂けると幸いです。
+[Issue](https://github.com/tech-training/tech-commit-doc/issues)にてご報告頂けると幸いです。
 
-## ドキュメントを書く
+## ドキュメントを追加・修正する
 1. Issueを確認します。  
-2. このレポジトリをforkし、新たにブランチを切ってドキュメントを追加します。  
-3. Issueを元にPullRequest（以下PR）を作成し、ドキュメントを追加します。マージ先のブランチが**develop**になっていることを確認してください。 
-レビュー依頼はPRのリンクを添付の上〜チャンネルにお願いします。  
+2. このレポジトリをforkし、新たにブランチを切ってドキュメントを追加・修正します。  
+3. Issueを元にPullRequest（以下PR）を作成し、マージ先のブランチが**master**になっていることを確認してください。 
 4. TechCommit運営メンバーがレビュー・マージします。
 
 ### ブランチ名
@@ -26,13 +25,8 @@ Issueにてご報告頂けると幸いです。
 - feature/fix-learning-report-page-typo
 
 ### Pull requestの作成
-#### close
 close #△△ をつけてください。△△はIssueの番号です。  
 これをつけることでPRがマージされた時、該当するIssueはcloseされます。  
 
-### ファイル名
-各Issueで指定されたファイル名で作成してください。  
-例：  
-
-- bookmark.md  
-- qa-board.md  
+▼ Issue番号はIssueの題名の右側に表示される番号のことです。  
+![Issue番号](images/contribute/issue-number.png)
