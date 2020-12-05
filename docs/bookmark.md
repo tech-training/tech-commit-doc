@@ -32,7 +32,7 @@ Slackチャンネルの「ブックマーク報告」で共有したい場合は
 
 ![皆のブックマーク](images/bookmark/everyone-bookmark.png)
 
-なお、 **Slackにも投稿**にチェックを入れた場合は、Slackの[#ブックマーク報告](https://techcommit.slack.com/archives/CGB2JAQEQ)チャンネルにも同時投稿されます。
+なお、 **Slackにも投稿**にチェックを入れた場合は、Slackの[#54_通知_ブックマーク](https://techcommit.slack.com/archives/CGB2JAQEQ)チャンネルにも同時投稿されます。
 
 ![Slackに投稿](images/bookmark/post-to-slack.jpg)
 
