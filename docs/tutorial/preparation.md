@@ -6,7 +6,7 @@ TechCommit参加にあたり、まずはコミュニケーションやイベン�
 
 Zoomとは、オンラインミーティングをするためのアプリです。  
 
-TechCommitでは、毎日のもくもく会や週末の勉強会などにこのZoomを利用しています。  
+TechCommitでは週末の勉強会などにこのZoomを利用しています。  
 
 画面共有や録画などの機能もあり、わからないことを質問する際にも非常に便利です。
 
@@ -30,7 +30,7 @@ Zoomはスマホでも利用可能ですがここではコンピュータ（Mac�
 
 ### ミーティングへの参加
 
-勉強会やもくもく会が開催される場合、Slackに以下のようなZoomのリンクが投稿されます。  
+勉強会が開催される場合、Slackに以下のようなZoomのリンクが投稿されます。  
 
 https://us04web.zoom.us/j/XXXXXXXXX
 
@@ -124,6 +124,14 @@ TechCommit登録後（ログイン後）にマイページを開くとSlack連�
 ![コマンドの実行](/images/preparation-tool/exec-command.jpg)
 
 これで、TechCommitとSlackワークスペースの連携ができました。
+
+## oViceの導入
+
+毎日のもくもく会には[oVice（オヴィス）](https://ovice.in/ja/)というビデオ通話ツールを使っています。  
+Chromeなどのブラウザ上で動作するので、アプリのダウンロードは必要ありません。  
+使い方については下記動画で丁寧に解説されているので参考にしてみてください。
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uWvffaCR_nk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
