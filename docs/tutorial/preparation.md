@@ -126,7 +126,7 @@ TechCommit登録後（ログイン後）にマイページを開くとSlack連�
 これで、TechCommitとSlackワークスペースの連携ができました。
 
 ## Qiita Organizationの参加申請
-TechCommitメンバーの[Qiita Organization](https://qiita.com/organizations/tech-commit)に参加すると、記事を投稿したときにSlackの[#35_執筆共有](https://techcommit.slack.com/archives/C016NN35GFM)チャンネルに通知されます。  
+TechCommitメンバーの[Qiita Organization](https://qiita.com/organizations/tech-commit)に参加すると、記事を投稿したときにSlackの[#35_執筆共有](https://techcommit.slack.com/archives/C016NN35GFM)チャンネルに共有されます。  
 
 参加をご希望される場合は、Slackの[@TechCommit運営](https://techcommit.slack.com/archives/D01KCUPG8JE)までQiita ID（@から始まるID）をお送りください。  
 ![Qiita Organization](/images/preparation/qiita-organization.png)
