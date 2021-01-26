@@ -133,6 +133,11 @@ Chromeなどのブラウザ上で動作するので、アプリのダウンロ�
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uWvffaCR_nk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+## Qiita Organizationの参加申請
+TechCommitメンバーの[Qiita Organization](https://qiita.com/organizations/tech-commit)に参加すると、記事を投稿したときにSlackの[#35_執筆共有](https://techcommit.slack.com/archives/C016NN35GFM)チャンネルに共有されます。  
+
+参加をご希望される場合は、Slackの[@TechCommit運営](https://techcommit.slack.com/archives/D01KCUPG8JE)までQiita ID（@から始まるID）をお送りください。  
+![Qiita Organization](/images/preparation/qiita-organization.png)
 ---
 
 それでは次に、
