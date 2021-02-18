@@ -47,6 +47,18 @@ TechCommitでは以下の4種類のイベントを定期的に開催していま
 
 また、イベントについては「#51_通知_イベント」チャンネルでもご案内しており、SlackのDM（ダイレクトメッセージ）でもお誘いすることがあります。
 
+### オススメ！ TechCommitイベントカレンダーを登録しよう
+- イベントの予定を見逃したくない
+- カレンダーにいちいち登録するのは面倒
+
+という人は、TechCommitイベントカレンダーの登録がオススメです。  
+登録すると自分のGoogleカレンダーに自動的にイベント予定が組み込まれます。  
+登録は2ステップでとても簡単です♪
+
+1. 下記URLにアクセスしてTechCommitイベントカレンダーを開く
+[https://calendar.google.com/calendar/embed?src=tech-training.jp_b7ist9cicomc67aoejm64kobm0%40group.calendar.google.com&ctz=Asia%2FTokyo](https://calendar.google.com/calendar/embed?src=tech-training.jp_b7ist9cicomc67aoejm64kobm0%40group.calendar.google.com&ctz=Asia%2FTokyo)
+2. 下画像の右下を選択してカレンダーを追加する
+![TechCommitイベントカレンダー](/images/tutorial/event-calendar.png)
 ## イベントの雰囲気をつかもう
 「人見知りなので話すのが苦手で不安です...」「初心者なので話についていけないと思うと参加しづらいです...」といった声をいただくことがありますが、ファシリテーター（進行役）がいるので安心してご参加ください。（※メンバーが自主開催するイベントはいない場合があります）
 
