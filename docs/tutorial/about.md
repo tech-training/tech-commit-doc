@@ -48,6 +48,8 @@ TechCommitでは「街」として、メンバー全員が安心して交流や�
 
 [TechCommit利用規約：第7条（禁止事項）](https://github.com/tech-training/tech_commit-terms_of_service#%E7%AC%AC7%E6%9D%A1%E7%A6%81%E6%AD%A2%E4%BA%8B%E9%A0%85)
 
+個人イベント開催の約束事などについては「[個人イベント開催について](personal-event.html)」を御覧ください。
+
 ## ここからはじめる！導入の5ステップ
 
 ### [Step1. 利用環境を整えよう！](../preparation)
