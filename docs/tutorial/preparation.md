@@ -131,7 +131,7 @@ TechCommit登録後（ログイン後）にマイページを開くとSlack連�
 Chromeなどのブラウザ上で動作するので、アプリのダウンロードは必要ありません。  
 使い方については下記動画で丁寧に解説されているので参考にしてみてください。
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uWvffaCR_nk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C8r02gYDA50" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Qiita Organizationの参加申請
 TechCommitメンバーの[Qiita Organization](https://qiita.com/organizations/tech-commit)に参加すると、記事を投稿したときにSlackの[#35_執筆共有](https://techcommit.slack.com/archives/C016NN35GFM)チャンネルに共有されます。  
