@@ -1,4 +1,7 @@
-# TechCommitドキュメントサイトにようこそ！
+※新ドキュメントは[TechCommitご活用ガイド](https://tech-commit.notion.site/tech-commit/IT-TechCommit-bd613d841ecd49c7828c78dc6c75b983)です。こちらを参照するようにしてください。
+
+# （旧）TechCommitドキュメントサイトにようこそ！
+
 ![TechCommit トップ](images/index/techcommit-top.png)
 
 このサイトはコミュニティ型IT学習環境「[TechCommit](https://www.tech-commit.jp/)」を**最大限活用する方法**をまとめています。  
