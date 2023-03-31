@@ -4,7 +4,7 @@ google_analytics:
   - auto
 
 # サイト情報
-site_name: TechCommitドキュメント
+site_name: （旧）TechCommitドキュメント
 site_description: TechCommitを活用するためのドキュメントサイト
 site_author: TechTraining
 
@@ -33,26 +33,28 @@ extra_css:
 
 # ページ構成
 nav:
-- ホーム: index.md
-- チュートリアル:
-  - ようこそTechCommitへ: tutorial/about.md
-  - Step1. 利用環境を整えよう！: tutorial/preparation.md
-  - Step2. メンバーと仲良くなろう！: tutorial/get-along-with-each-other.md
-  - Step3. 興味のある話題に参加しよう！: tutorial/join-slack-channel.md
-  - Step4. 様々なイベントに参加しよう！: tutorial/join-event.md
-  - Step5. 学習にもっとCommitしよう！: tutorial/include-techcommit-in-your-life.md
-- 目標別活用例:
-  - 個人アプリ開発: develop-app.md
-- 活用方法:
-  - TechCommit Webサイト:
-    - 学習日報: learning-report.md
-    - 学習日報ツイート設定: learning-report-tweet.md
-    - QA広場: qa-board.md
-    - 挑戦状: challenge.md
-    - ブックマーク: bookmark.md
-  - イベント:
-    - オンラインもくもく会: mokumoku.md
-    - オンライン週末勉強会: online-event.md
-    - 個人イベント開催について : personal-event.md 
-    - 講師募集: looking-for-organizer.md
-- サイト修正等の提案・報告: contribute.md
+- ※新ドキュメントはこちら: https://tech-commit.notion.site/tech-commit/IT-TechCommit-bd613d841ecd49c7828c78dc6c75b983
+- 旧ドキュメントメニュー:
+  - ホーム: index.md
+  - チュートリアル:
+    - ようこそTechCommitへ: tutorial/about.md
+    - Step1. 利用環境を整えよう！: tutorial/preparation.md
+    - Step2. メンバーと仲良くなろう！: tutorial/get-along-with-each-other.md
+    - Step3. 興味のある話題に参加しよう！: tutorial/join-slack-channel.md
+    - Step4. 様々なイベントに参加しよう！: tutorial/join-event.md
+    - Step5. 学習にもっとCommitしよう！: tutorial/include-techcommit-in-your-life.md
+  - 目標別活用例:
+    - 個人アプリ開発: develop-app.md
+  - 活用方法:
+    - TechCommit Webサイト:
+      - 学習日報: learning-report.md
+      - 学習日報ツイート設定: learning-report-tweet.md
+      - QA広場: qa-board.md
+      - 挑戦状: challenge.md
+      - ブックマーク: bookmark.md
+    - イベント:
+      - オンラインもくもく会: mokumoku.md
+      - オンライン週末勉強会: online-event.md
+      - 個人イベント開催について : personal-event.md 
+      - 講師募集: looking-for-organizer.md
+  - サイト修正等の提案・報告: contribute.md
